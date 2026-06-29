@@ -119,9 +119,9 @@ These solutions were created for learning and practice purposes as part of my co
 
 ## 👨‍💻 Author
 
-**Siddharth Singh**
+**Suraj Singh**
 
 B.Tech Computer Science Engineering  
 GLA University, Mathura
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/thevibingteen
