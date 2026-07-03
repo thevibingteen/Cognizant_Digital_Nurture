@@ -1,10 +1,30 @@
 # Cognizant Digital Nurture 5.0 – Java Full Stack Engineering
 
+# 📌 Important Notice
+
+> **All exercise solutions are maintained in their respective topic branches.**
+>
+> **Please switch to the relevant branch using the GitHub branch selector to review the solutions for each topic.**
+
 This repository contains my solutions, mandatory hands-on exercises, assignments, and learning progress completed as part of the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineering (Java FSE)** program.
 
 The repository is maintained according to the recommended learning sequence provided in the official Cognizant Digital Nurture Handbook.
 
 ---
+
+## Repository Branches
+
+This repository is organized using separate branches for each topic.
+
+- main → Repository overview
+- design-patterns-and-principles
+- algorithms-data-structures
+- plsql-programming
+- tdd-junit-mockito
+- slf4j-logging-framework
+- spring-core-maven
+- spring-data-jpa
+- hibernate
 
 ## Repository Organization
 
