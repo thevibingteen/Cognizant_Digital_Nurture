@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans
+https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="itDepartment" class="Department">
+        <property name="id" value="1"/>
+        <property name="name" value="IT"/>
+    </bean>
+
+    <bean id="hrDepartment" class="Department">
+        <property name="id" value="2"/>
+        <property name="name" value="HR"/>
+    </bean>
+
+    <bean id="javaSkill" class="Skill">
+        <property name="id" value="101"/>
+        <property name="name" value="Java"/>
+    </bean>
+
+    <bean id="springSkill" class="Skill">
+        <property name="id" value="102"/>
+        <property name="name" value="Spring Boot"/>
+    </bean>
+
+    <bean id="employeeList"
+          class="java.util.ArrayList">
+
+        <constructor-arg>
+
+            <list>
+
+                <bean class="Employee">
+
+                    <property name="id" value="1"/>
+                    <property name="name" value="Rahul"/>
+                    <property name="salary" value="65000"/>
+                    <property name="permanent" value="true"/>
+                    <property name="department" ref="itDepartment"/>
+
+                    <property name="skills">
+                        <list>
+                            <ref bean="javaSkill"/>
+                            <ref bean="springSkill"/>
+                        </list>
+                    </property>
+
+                </bean>
+
+                <bean class="Employee">
+
+                    <property name="id" value="2"/>
+                    <property name="name" value="Sneha"/>
+                    <property name="salary" value="55000"/>
+                    <property name="permanent" value="true"/>
+                    <property name="department" ref="hrDepartment"/>
+
+                    <property name="skills">
+                        <list>
+                            <ref bean="javaSkill"/>
+                        </list>
+                    </property>
+
+                </bean>
+
+            </list>
+
+        </constructor-arg>
+
+    </bean>
+
+</beans>
