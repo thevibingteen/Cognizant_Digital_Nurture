@@ -1,24 +1,52 @@
-# ReactJS HOL 1
+# ReactJS HOL-1
 
 ## Objective
 
-Create the first React application using Create React App and understand the basic project structure.
+Create a basic React application using Create React App and display a welcome message.
 
-## Project
+---
 
-```
+## Project Name
+
 myfirstreact
+
+---
+
+## Technologies
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## How to Run
+
+```bash
+cd myfirstreact
+npm install
+npm start
 ```
 
-## Concepts Covered
+---
 
-- React project creation
-- Folder structure
-- JSX
+## Output
+
+Displays the heading:
+
+```
+Welcome to the First Session of React
+```
+
+along with a short introductory message.
+
+---
+
+## Learning Outcome
+
+- React project setup
+- Create React App
 - Functional components
-- CSS styling
-- Running a React application
-
-## Status
-
-Completed
+- JSX
+- Basic styling

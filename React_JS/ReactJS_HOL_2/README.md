@@ -1,14 +1,12 @@
-# ReactJS HOL 2
+# ReactJS HOL-2
 
 ## Objective
 
-Create a React application using multiple class components.
+Create a React application named **StudentApp** and demonstrate the use of multiple class components.
 
 ## Project
 
-```
 studentapp
-```
 
 ## Components
 
@@ -16,13 +14,24 @@ studentapp
 - About
 - Contact
 
-## Concepts Covered
+## Technologies
 
-- Class Components
-- Component Rendering
-- React Project Structure
+- React
+- JavaScript (ES6)
 - JSX
+- CSS
 
-## Status
+## How to Run
 
-Completed
+```bash
+cd studentapp
+npm install
+npm start
+```
+
+## Learning Outcome
+
+- Create class components
+- Organize reusable components
+- Render multiple components
+- Build a simple React application structure

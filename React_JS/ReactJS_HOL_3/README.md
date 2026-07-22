@@ -1,26 +1,37 @@
-# ReactJS HOL 3
+# ReactJS HOL-3
 
 ## Objective
 
-Create a React application using functional components and external CSS.
+Develop a React application that demonstrates the use of functional components and component styling.
 
-## Project
+## Project Name
 
-```
 scorecalculatorapp
+
+## Features
+
+- Functional Component
+- Component Styling
+- Props
+- Average Score Calculation
+
+## Technologies
+
+- React
+- JavaScript
+- CSS
+
+## Run
+
+```bash
+cd scorecalculatorapp
+npm install
+npm start
 ```
 
-## Component
-
-- CalculateScore
-
-## Concepts Covered
+## Learning Outcome
 
 - Functional Components
-- JSX
-- CSS Styling
-- React Component Rendering
-
-## Status
-
-Completed
+- Passing Props
+- Component Styling
+- Rendering Dynamic Data
