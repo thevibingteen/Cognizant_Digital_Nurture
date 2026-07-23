@@ -11,24 +11,24 @@ react-js-hol
 ## Hands-on Exercises
 
 | HOL | Status |
-|-----|--------|
+|------|--------|
 | ReactJS HOL 1 | Completed |
 | ReactJS HOL 2 | Completed |
 | ReactJS HOL 3 | Completed |
-| ReactJS HOL 4 | Pending |
-| ReactJS HOL 5 | Pending |
-| ReactJS HOL 6 | Pending |
-| ReactJS HOL 7 | Pending |
-| ReactJS HOL 8 | Pending |
-| ReactJS HOL 9 | Pending |
-| ReactJS HOL 10 | Pending |
-| ReactJS HOL 11 | Pending |
-| ReactJS HOL 12 | Pending |
-| ReactJS HOL 13 | Pending |
-| ReactJS HOL 14 | Pending |
-| ReactJS HOL 15 | Pending |
-| ReactJS HOL 16 | Pending |
-| ReactJS HOL 17 | Pending |
+| ReactJS HOL 4 | Completed |
+| ReactJS HOL 5 | Completed |
+| ReactJS HOL 6 | Completed |
+| ReactJS HOL 7 | Completed |
+| ReactJS HOL 8 | Completed |
+| ReactJS HOL 9 | Completed |
+| ReactJS HOL 10 | Completed |
+| ReactJS HOL 11 | Completed |
+| ReactJS HOL 12 | Completed |
+| ReactJS HOL 13 | Completed |
+| ReactJS HOL 14 | Completed |
+| ReactJS HOL 15 | Completed |
+| ReactJS HOL 16 | Completed |
+| ReactJS HOL 17 | Completed |
 
 ## Technologies Used
 
